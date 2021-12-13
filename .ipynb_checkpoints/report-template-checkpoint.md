@@ -1,9 +1,9 @@
 # Report: Predict Bike Sharing Demand with AutoGluon Solution
-#### Rajat Sharma
+#### NAME HERE
 
 ## Initial Training
 ### What did you realize when you tried to submit your predictions? What changes were needed to the output of the predictor to submit your results?
-After prediction, I found some negative values 
+TODO: Add your explanation
 
 ### What was the top ranked model that performed?
 TODO: Add your explanation
